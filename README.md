@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 🌟
 
-## GitHub Stats
+## GitHub Stats (public repositories only)
 ![fetristan GitHub stats](https://github-readme-stats.vercel.app/api?username=fetristan&show_icons=true&theme=cobalt)
 
 ## Connect with me
