@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm fetristan! 👋
 
-<!--
-**fetristan/fetristan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🌟
 
-Here are some ideas to get you started:
+## GitHub Stats
+![fetristan GitHub stats](https://github-readme-stats.vercel.app/api?username=fetristan&show_icons=true&theme=cobalt)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/tristan-f-974116b8/)
+
+## Skills
+
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=go,lua,php,cs)
+
+#### Backend Technologies
+[![Backend Technologies](https://skillicons.dev/icons?i=gcp,docker,redis,symfony,nginx,elasticsearch,mysql&perline=3)](https://skillicons.dev)
+
+#### Other tools & Technologies
+![Others](https://skillicons.dev/icons?i=git,github,md,vscode,apple,ansible,jenkins,debian,eclipse,git,gitlab,linkedin,linux,postman,powershell,stackoverflow,windows)
+
+#### Used but not professionally
+![Used](https://skillicons.dev/icons?i=androidstudio,angular,bitbucket,cmake,css,dart,discord,dotnet,flutter,html,idea,npm,react,ts,ubuntu,visualstudio,)
