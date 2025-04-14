@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! 🌟
 
 ## GitHub Stats (public repositories only)
-![fetristan GitHub stats](https://github-readme-stats.vercel.app/api?username=fetristan&show_icons=true&theme=cobalt)
+![fetristan GitHub stats](https://github-readme-stats-drab-pi-11.vercel.app/api?username=fetristan&show_icons=true&theme=cobalt)
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/tristan-f-974116b8/)
