@@ -11,7 +11,7 @@ Welcome to my GitHub profile! 🌟
 ![Languages](https://skillicons.dev/icons?i=go,lua,php,cs)
 
 #### Backend Technologies
-[![Backend Technologies](https://skillicons.dev/icons?i=gcp,docker,redis,symfony,nginx,elasticsearch,mysql&perline=3)](https://skillicons.dev)
+[![Backend Technologies](https://skillicons.dev/icons?i=gcp,docker,redis,symfony,nginx,elasticsearch,mysql)](https://skillicons.dev)
 
 #### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=git,github,md,vscode,apple,ansible,jenkins,debian,eclipse,git,gitlab,linkedin,linux,postman,powershell,stackoverflow,windows)
